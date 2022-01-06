@@ -12,7 +12,7 @@
 
 * lombok (코드다이어트..)
   * 메소드를 Annotation(@)을 사용하여 자동으로 작성해주는 라이브러리
-  * Getter / Setter / NoArgsConstructor / AllArgsConstructor / ToString /Builder 등
+  * Getter / Setter / NoArgsConstructor / AllArgsConstructor / ToString / Builder 등
 
 * JUnit
   * Java의 대표적인 Testing Framework 이다.
@@ -20,3 +20,5 @@
 
 * log4j
 
+❔ Builder를 어떻게 써야할까...   
+❔ DB를 실제로 받아와보는 시간이 필요할 것 같다..?
